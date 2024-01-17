@@ -2,3 +2,4 @@
 - estado de proyecto en construccion
 para ejecutar el sistema debes poner :
 ```npm instal react ```
+realize una modoficacion
